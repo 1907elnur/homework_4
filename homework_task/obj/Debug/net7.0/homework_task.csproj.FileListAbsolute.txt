@@ -1,0 +1,15 @@
+C:\Users\FA507XV\source\repos\homework_task\homework_task\bin\Debug\net7.0\homework_task.exe
+C:\Users\FA507XV\source\repos\homework_task\homework_task\bin\Debug\net7.0\homework_task.deps.json
+C:\Users\FA507XV\source\repos\homework_task\homework_task\bin\Debug\net7.0\homework_task.runtimeconfig.json
+C:\Users\FA507XV\source\repos\homework_task\homework_task\bin\Debug\net7.0\homework_task.dll
+C:\Users\FA507XV\source\repos\homework_task\homework_task\bin\Debug\net7.0\homework_task.pdb
+C:\Users\FA507XV\source\repos\homework_task\homework_task\obj\Debug\net7.0\homework_task.csproj.AssemblyReference.cache
+C:\Users\FA507XV\source\repos\homework_task\homework_task\obj\Debug\net7.0\homework_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FA507XV\source\repos\homework_task\homework_task\obj\Debug\net7.0\homework_task.AssemblyInfoInputs.cache
+C:\Users\FA507XV\source\repos\homework_task\homework_task\obj\Debug\net7.0\homework_task.AssemblyInfo.cs
+C:\Users\FA507XV\source\repos\homework_task\homework_task\obj\Debug\net7.0\homework_task.csproj.CoreCompileInputs.cache
+C:\Users\FA507XV\source\repos\homework_task\homework_task\obj\Debug\net7.0\homework_task.dll
+C:\Users\FA507XV\source\repos\homework_task\homework_task\obj\Debug\net7.0\refint\homework_task.dll
+C:\Users\FA507XV\source\repos\homework_task\homework_task\obj\Debug\net7.0\homework_task.pdb
+C:\Users\FA507XV\source\repos\homework_task\homework_task\obj\Debug\net7.0\homework_task.genruntimeconfig.cache
+C:\Users\FA507XV\source\repos\homework_task\homework_task\obj\Debug\net7.0\ref\homework_task.dll
